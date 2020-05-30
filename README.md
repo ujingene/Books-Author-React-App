@@ -1,7 +1,7 @@
 This is a Single Page Application of the Books with their Authors that connectts to a GraphQL API.
 
 - Dashboard Interface
-![Dashboard](https://github.com/ujingene/React-GraphQL-API/blob/master/images/img1.PNG)
+![Dashboard](https://github.com/ujingene/React-GraphQL-API/blob/master/images/Img1.PNG)
 
 - Nicely crafted Books Dashboard
 - List of Relationship Between Book and Author
@@ -30,7 +30,7 @@ cd client
 yarn
 ```
 
-### React from root
+### Start Application from Terminal
 
 ```bash
 yarn start
